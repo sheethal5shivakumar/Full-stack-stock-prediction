@@ -1,0 +1,9 @@
+{
+  "env": {
+    "MONGODB_URI": "mongodb+srv://shivakumarsheethal:Skanda@290424@cluster0.cpcve7j.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
+    "NEXTAUTH_SECRET": "8KQzT6X9vN2mP7sL4jH1fG5dA3wE8rY6tU9iO0pQ2xZ4cV7bN1mK8jH5fG2dA"
+  },
+  "buildCommand": "npm run build",
+  "outputDirectory": ".next",
+  "framework": "nextjs"
+} 
